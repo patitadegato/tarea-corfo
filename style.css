@@ -1,0 +1,21 @@
+body {
+  background-color:#E8DAEF
+}
+h1{color:#F39C12}
+p{Color:#229954}
+
+.titulo{
+  font-style:arial;
+  font-size: 40px;
+}
+.subtitulo{
+  font-style:calibri;
+  font-size: 25px;
+}
+.destacado{
+  font-style:italic;
+  font-style:arial;
+  font-size: 30px;
+  
+  color:#2471A3
+}
